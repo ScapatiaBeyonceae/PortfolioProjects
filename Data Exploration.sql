@@ -1,8 +1,6 @@
-﻿
---dbo.population ──┐
+﻿--dbo.population ──┐
 --                 ├── Region + Year ── dbo.temperature
 --dbo.migration  ──┘
-
 
 --Do regions with high net immigration show higher temperature increases?
 
